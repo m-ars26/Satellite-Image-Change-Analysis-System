@@ -1,0 +1,25 @@
+# Uydu Görüntü Değişim Analizi - Gerekli Paketler
+# Ana framework
+streamlit>=1.28.0
+plotly>=5.17.0
+
+# Görüntü işleme
+opencv-python>=4.8.0
+Pillow>=10.0.0
+scikit-image>=0.21.0
+
+# Veri analizi
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Görselleştirme
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Makine öğrenmesi 
+scikit-learn>=1.3.0
+
+# Performans ve yardımcı
+tqdm>=4.65.0
+pathlib2>=2.3.7
